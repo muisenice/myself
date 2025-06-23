@@ -18,8 +18,8 @@ public class index {
         int[] arr = {1, 3, 2, 5, 4};
         optimizedBubbleSort(arr);
 
-        int[] arr = {1, 3, 2, 5, 4, 6, 9, 8, 7};
-        selectionSort(arr);
+        int[] arr1 = {1, 3, 2, 5, 4, 6, 9, 8, 7};
+        selectionSort(arr1);
     }
 
     /**

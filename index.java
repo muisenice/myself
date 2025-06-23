@@ -11,4 +11,7 @@
  * @since 0.1.0
  */
 public class index {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
